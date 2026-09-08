@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">ScreenJoyClient</string>
+    <string name="dpad_up">↑</string>
+    <string name="dpad_down">↓</string>
+    <string name="dpad_left">←</string>
+    <string name="dpad_right">→</string>
+    <string name="button_a">A</string>
+    <string name="button_b">B</string>
+    <string name="button_x">X</string>
+    <string name="button_y">Y</string>
+    <string name="edit_mode_on">편집</string>
+    <string name="edit_mode_off">완료</string>
+    <string name="reset_layout">초기화</string>
+    <string name="edit_unit_individual">개별편집</string>
+    <string name="edit_unit_group">세트편집</string>
+
+    <string name="overlay_permission_request">오버레이 권한 요청</string>
+    <string name="overlay_start">오버레이 시작</string>
+    <string name="overlay_stop">오버레이 중지</string>
+    <string name="overlay_edit_mode">편집 모드</string>
+    <string name="current_pc_ip_label">PC IP: %1$s (탭하여 변경)</string>
+    <string name="pc_ip_dialog_title">PC IP 주소</string>
+    <string name="pc_ip_hint">예: 192.168.0.2</string>
+
+    <string name="status_need_permission">오버레이 권한이 필요합니다</string>
+    <string name="status_running">오버레이 실행 중</string>
+    <string name="status_stopped">오버레이 중지됨</string>
+
+    <string name="notification_channel_name">ScreenJoy 오버레이</string>
+    <string name="notification_title">ScreenJoy 오버레이 실행 중</string>
+    <string name="notification_action_stop">중지</string>
+
+    <string name="button_lb">LB</string>
+    <string name="button_rb">RB</string>
+    <string name="button_lt">LT</string>
+    <string name="button_rt">RT</string>
+    <string name="pad_toggle_glyph">⇕</string>
+
+    <string name="list_left_stick">왼쪽 스틱</string>
+    <string name="list_right_stick">오른쪽 스틱</string>
+    <string name="list_dpad_up">방향키 위</string>
+    <string name="list_dpad_down">방향키 아래</string>
+    <string name="list_dpad_left">방향키 왼쪽</string>
+    <string name="list_dpad_right">방향키 오른쪽</string>
+    <string name="list_button_a">A 버튼</string>
+    <string name="list_button_b">B 버튼</string>
+    <string name="list_button_x">X 버튼</string>
+    <string name="list_button_y">Y 버튼</string>
+    <string name="list_button_lb">LB (왼쪽 범퍼)</string>
+    <string name="list_button_rb">RB (오른쪽 범퍼)</string>
+    <string name="list_button_lt">LT (왼쪽 트리거)</string>
+    <string name="list_button_rt">RT (오른쪽 트리거)</string>
+    <string name="list_pad_toggle">패드 숨김/보이기 버튼</string>
+
+    <string name="key_settings">키 설정</string>
+    <string name="key_settings_title">키 설정</string>
+    <string name="key_settings_add">커스텀 키 추가</string>
+    <string name="key_settings_delete">삭제</string>
+    <string name="key_settings_label_hint">버튼에 표시할 이름</string>
+    <string name="key_settings_pick_key">보낼 키 선택</string>
+
+    <string name="profile_settings">프로필</string>
+    <string name="profile_settings_title">프로필</string>
+    <string name="profile_save_current">현재 설정 저장</string>
+    <string name="profile_load">불러오기</string>
+    <string name="profile_name_hint">프로필 이름</string>
+    <string name="profile_empty">저장된 프로필이 없습니다</string>
+
+    <string name="edit_hide_toggle">숨기기</string>
+</resources>

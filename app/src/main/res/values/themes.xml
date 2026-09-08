@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ScreenJoyClient" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/overlay_accent</item>
+        <item name="android:windowBackground">@color/overlay_surface_pressed</item>
+    </style>
+
+    <style name="Theme.ScreenJoyClient" parent="Base.Theme.ScreenJoyClient" />
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="overlay_accent">#00E5FF</color>
+    <color name="overlay_surface">#331E262A</color>
+    <color name="overlay_surface_pressed">#CC0E1416</color>
+    <color name="overlay_border">#9600E5FF</color>
+</resources>
